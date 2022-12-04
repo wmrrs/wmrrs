@@ -1,4 +1,4 @@
-<p align="center"><img src="https://gpvc.arturio.dev/AstraaDev" alt="Visitors"></a>
+![](https://komarev.com/ghpvc/?username=shiyner&label=views)
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/AstraaDev" alt="Profile Forks"></a>
 <p align="center"><a href="https://discord.gg/S7sb24pCzn" target="_blank"><img src="https://discordapp.com/api/guilds/995960657214189578/widget.png?style=shield" alt="shield.png"></a></p></p>
 
