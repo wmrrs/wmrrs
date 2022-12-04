@@ -1,6 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=shiyner&label=views)
-<p align="center"><a href="https://discord.gg/S7sb24pCzn" target="_blank"><img src="https://discordapp.com/api/guilds/995960657214189578/widget.png?style=shield" alt="shield.png"></a></p></p>
-
 ```python
 print(f'Follow {user} on Github')
 ```
