@@ -16,7 +16,6 @@ Knowledge is power.
 ```
 
 
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/194530701-85313fde-3a37-40b9-9d82-77a4e41da85a.gif)
 
 
 
